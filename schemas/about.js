@@ -6,7 +6,7 @@ export default {
 		{
 			name: 'title',
 			type: 'string',
-			title: 'Event',
+			title: 'Title',
 		},
 
 		{
